@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kepha001.github.io/kelphiq-website/sitemap.xml
